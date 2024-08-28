@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... most things. I would like to learn as much as I can.
 - 📫 How to reach me ... ferrellharrison@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I used to be a video edite for 7 years
+- ⚡ Fun fact: ... I used to be a video editor for 7 years
 
 <!---
 Harrisonferrell/Harrisonferrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
